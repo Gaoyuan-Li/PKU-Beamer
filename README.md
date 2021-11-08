@@ -9,13 +9,13 @@ Screenshots:
 
 - Title Slide:
 
-![screenshot1](.\screenshots\screenshot1.png)
+![screenshot1](./screenshots/screenshot1.png)
 
 - Table of Contents:
 
-![screenshot2](.\screenshots\screenshot2.png)
+![screenshot2](./screenshots/screenshot2.png)
 
 - Example:
 
-![screenshot3](.\screenshots\screenshot3.png)
+![screenshot3](./screenshots/screenshot3.png)
 
