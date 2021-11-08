@@ -1,5 +1,5 @@
 # PKU-Beamer
-Beamer Template fot Peking University
+Beamer Template for Peking University
 
 Modified from https://github.com/jsh9/Caltech-beamer-theme
 
