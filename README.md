@@ -3,7 +3,7 @@ Beamer Template for Peking University
 
 Modified from https://github.com/jsh9/Caltech-beamer-theme
 
-Image from [https://vim.pku.edu.cn/](https://vim.pku.edu.cn/)
+Image & Color from [https://vim.pku.edu.cn/](https://vim.pku.edu.cn/)
 
 Screenshots: 
 
